@@ -39,12 +39,29 @@ npm run dev
 
 ## AI Usage Documentation
 
-This project was developed with the assistance of GitHub Copilot:
+This project was developed with the assistance of multiple AI tools:
 
-- Initial project structure and setup
-- Basic component structure and routing
-- Supabase integration and authentication logic
-- API route implementations
+### GitHub Copilot
+Generated the majority of the codebase including:
+- Initial project structure and Next.js setup
+- Components and pages implementation
+- Supabase database integration
+- Authentication flows and protected routes
+- API endpoints and data handling
+- TypeScript types and interfaces
 - Database schema design
+
+### Cursor AI Editor
+Contributed to:
+- UI/UX design implementations
+- Design fixes and improvements
+- Component styling adjustments
+
+### Manual Modifications
+The following changes were implemented manually:
+- Authentication flow improvements (user login state redirects)
+- Bug fixes in Supabase function calls
+- Code review and optimization
+- Quality assurance and testing
 
 All generated code was reviewed and modified to ensure it meets the project requirements.
